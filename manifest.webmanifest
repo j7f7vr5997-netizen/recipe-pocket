@@ -1,1 +1,18 @@
-{"name":"Recipe Pocket — Offline Cookbook","short_name":"Recipe Pocket","description":"Your private offline cookbook","start_url":"./","scope":"./","display":"standalone","background_color":"#f9f7f1","theme_color":"#315a44","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "Dishkeep — Offline Cookbook",
+  "short_name": "Dishkeep",
+  "description": "Private offline-first recipe organizer",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#FAF7F2",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
